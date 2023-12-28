@@ -7,9 +7,12 @@
 
 <div id="badges" align"center">
     <a href="https://www.linkedin.com/in/iam-victor-cadena-backenddeveloper/" target="_blank"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/badgeContent%20-%20LinkedIn?style=social&logo=LinkedIn&logoColor=%230A66C2&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiam-victor-cadena-backenddeveloper%2F">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%20-%20LinkedIn?style=social&logo=LinkedIn&logoColor=%230A66C2&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiam-victor-cadena-backenddeveloper%2F">
+
     </a> 
 </div>
+
+---
 
 ### 👨‍💻 About Me:
 
@@ -20,10 +23,11 @@
 - 💬 Ask me about Python, Django, Flask
 - 📫 How to reach me: **jescad27@gmail.com**
 
+---
+
 <div>
     <h3>🚀 languages and Tools:</h3>
     <div>
-      <img src=" "  title="" alt ="" width="40" height ="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt ="python" width="40" height ="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="javascript" alt ="javascript" width="40" height ="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt ="django" width="40" height ="40" />
@@ -36,6 +40,15 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain.svg"  title="jupyter" alt ="jupyter" width="40" height ="40" />
     </div>
 </div>
+
+---
+
+### 📊 My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jescad29&theme=dark)](https://git.io/streak-stats)
+
+
+
 <!--
 **Jescad29/Jescad29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
