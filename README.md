@@ -6,10 +6,10 @@
 </div>
 
 <div id="badges" align"center">
-    <a href="https://www.linkedin.com/in/iam-victor-cadena-backenddeveloper/" target="_blank"> 
+    <a href="https://www.linkedin.com/in/iam-victor-cadena-backenddeveloper/" target="_blank"/> 
         <img alt="Static Badge" src="https://img.shields.io/badge/%20-%20LinkedIn?style=social&logo=LinkedIn&logoColor=%230A66C2&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fiam-victor-cadena-backenddeveloper%2F">
 
-    </a> 
+     
 </div>
 
 ---
