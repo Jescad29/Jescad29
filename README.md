@@ -49,7 +49,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jescad29&theme=dark)](https://git.io/streak-stats)
 
 
-![jescad27 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![jescad27 GitHub stats](https://github-readme-stats.vercel.app/api?username=jescad29&show_icons=true&theme=dark)
 
 
 
