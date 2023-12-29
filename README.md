@@ -46,6 +46,7 @@
 ### 📊 My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jescad29&theme=dark)](https://git.io/streak-stats)
+![Jescad GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
