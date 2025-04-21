@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.licdn.com/dms/image/v2/D4E16AQG-SCvBtoH8_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688687841526?e=1750896000&v=beta&t=nLNJXUjOr7FnKNZNneVFNwnSf3LXt0w0FBcy6YaeFrg" >
     <h1 align="center">Hi 👋, I'm Backend and Frontend Developer</h1>
-    <h3 align="center"> I am a technology enthusiast and passionate about Backend development. </h3>
+    <h3 align="center"> I am a technology enthusiast and passionate about Backend and Frontend development. </h3>
 </div>
 
 <div id="badges" align"center">
