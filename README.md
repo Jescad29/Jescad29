@@ -26,88 +26,90 @@
 
 ### 🎮 Projects & Interests
 
-
 ---
 
 ### 🧠 Programming Languages
-- **Python** 🐍  
-- **JavaScript (JS)**  
-- **TypeScript**  
-- **Dart**  
-- **Java**  
-- **HTML5**  
-- **CSS3 / Sass**
+
+| Languages |  |  |
+|------------|--|--|
+| 🐍 Python | 🟨 JavaScript (JS) | 🟦 TypeScript |
+| 🎯 Dart | ☕ Java | 🎨 HTML5 |
+| 🎨 CSS3 / Sass |  |  |
 
 ---
 
 ### ⚙️ Frameworks & Libraries
 
-#### 🐍 Python
-- Django  
-- Flask  
-- ReportLab  
-- pandas  
-- openpyxl  
-- python-docx / python-pptx / pypandoc  
-
-#### 💻 JavaScript / Frontend
-- Bootstrap  
-- React  
-- Axios  
-- StencilJS  
-- TailwindCSS  
-
-#### 🌐 Backend / Node.js
-- Node.js  
-- Express.js  
-- Firebase Functions  
+| Python | JavaScript / Frontend | Backend / Node.js |
+|--------|------------------------|-------------------|
+| Django | Bootstrap | Node.js |
+| Flask | React | Express.js |
+| ReportLab | Axios | Firebase Functions |
+| pandas | StencilJS |  |
+| openpyxl | TailwindCSS |  |
+| python-docx / python-pptx / pypandoc |  |  |
 
 ---
 
 ### 🗄️ Databases
-- PostgreSQL  
-- SQLite  
-- MySQL  
-- SQL Server  
-- Firebase Realtime Database / Firestore  
+
+| SQL | NoSQL | Cloud |
+|-----|--------|--------|
+| PostgreSQL | Firebase Realtime DB | Firestore |
+| MySQL |  |  |
+| SQLite |  |  |
+| SQL Server |  |  |
 
 ---
 
 ### ☁️ Hosting & Infrastructure
-- Firebase Hosting  
-- Hostinger (FTP, FileZilla)  
-- Docker  
-- Google Drive API (data backup & restore)  
-- AWS SES / Postmark (transactional emails)  
+
+| Hosting | Cloud / APIs | DevOps |
+|----------|---------------|--------|
+| Firebase Hosting | Google Drive API | Docker |
+| Hostinger | AWS SES / Postmark | FTP (FileZilla) |
 
 ---
 
 ### 🧰 Tools & Environments
-- Git / GitHub (rebase, reflog)  
-- TablePlus  
-- VS Code  
-- Pipenv / Virtualenv  
-- dotenv (.env management)  
-- FileZilla (FTP access)  
+
+| Development | Management | Configuration |
+|--------------|-------------|----------------|
+| VS Code | Git / GitHub (rebase, reflog) | dotenv (.env) |
+| TablePlus | Pipenv / Virtualenv | FileZilla |
 
 ---
 
 ### 🎨 UI/UX & Frontend Design
-- HTML Templates  
-- Responsive Web Design  
-- Bootstrap Components  
-- Tailwind & Sass styling  
-- Clean and functional interface layouts  
+
+| Layouts | Tools | Style |
+|----------|--------|--------|
+| HTML Templates | Bootstrap Components | Tailwind / Sass |
+| Responsive Design |  | Clean & functional interfaces |
 
 ---
 
 ### 🧱 Architectures
-- **MVC (Model–View–Controller)**  
-- **RESTful APIs**  
-- **Client–Server**  
-- **Microservices (in progress)**  
-- **Hybrid Local-Cloud Apps**  
-- **Monolithic Applications**
+
+| Architecture | Description |
+|---------------|--------------|
+| **MVC** | Separación en Modelo, Vista y Controlador |
+| **MVP / MVVM** | Variantes usadas en apps móviles o frontend |
+| **RESTful API** | Servicios estructurados por recursos |
+| **GraphQL API** | Alternativa moderna a REST |
+| **Microservices** | Servicios pequeños e independientes |
+| **Monolithic** | Todo el sistema dentro de una sola aplicación |
+| **Layered (N-tier)** | Separación en capas: presentación, lógica, datos |
+| **Clean Architecture** | Enfocada en la independencia del dominio |
+
+---
+
+### ⚙️ Automation & Utilities
+
+| Automation | Documents | Integrations |
+|-------------|------------|---------------|
+| Python scripting | PDF / Excel / DOCX generation | Email & QR systems |
+| Task automation | QR code creation | Access control systems |
 
 ---
 
