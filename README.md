@@ -16,14 +16,101 @@
 
 ### 👨‍💻 About Me:
 
-
-- 🔭 I’m currently working on backend side development projects
-- 🌱 I’m currently learning JavaScript and TypeScript
-- 👯 I’m looking to collaborate on backend projects
-- 💬 Ask me about Python, Django, Flask
+- 🔭 I’m currently working on backend and full-stack development projects  
+- 🌱 I’m currently learning **TypeScript** and improving my **architecture and app design** skills  
+- 👯 I’m looking to collaborate on **web apps, backend systems, and hybrid applications**  
+- 💬 Ask me about **Python, Django, Flask, JavaScript, and API design**  
 - 📫 How to reach me: **jescad27@gmail.com**
 
 ---
+
+### 🎮 Projects & Interests
+
+
+---
+
+### 🧠 Programming Languages
+- **Python** 🐍  
+- **JavaScript (JS)**  
+- **TypeScript**  
+- **Dart**  
+- **Java**  
+- **HTML5**  
+- **CSS3 / Sass**
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+#### 🐍 Python
+- Django  
+- Flask  
+- ReportLab  
+- pandas  
+- openpyxl  
+- python-docx / python-pptx / pypandoc  
+
+#### 💻 JavaScript / Frontend
+- Bootstrap  
+- React  
+- Axios  
+- StencilJS  
+- TailwindCSS  
+
+#### 🌐 Backend / Node.js
+- Node.js  
+- Express.js  
+- Firebase Functions  
+
+---
+
+### 🗄️ Databases
+- PostgreSQL  
+- SQLite  
+- MySQL  
+- SQL Server  
+- Firebase Realtime Database / Firestore  
+
+---
+
+### ☁️ Hosting & Infrastructure
+- Firebase Hosting  
+- Hostinger (FTP, FileZilla)  
+- Docker  
+- Google Drive API (data backup & restore)  
+- AWS SES / Postmark (transactional emails)  
+
+---
+
+### 🧰 Tools & Environments
+- Git / GitHub (rebase, reflog)  
+- TablePlus  
+- VS Code  
+- Pipenv / Virtualenv  
+- dotenv (.env management)  
+- FileZilla (FTP access)  
+
+---
+
+### 🎨 UI/UX & Frontend Design
+- HTML Templates  
+- Responsive Web Design  
+- Bootstrap Components  
+- Tailwind & Sass styling  
+- Clean and functional interface layouts  
+
+---
+
+### 🧱 Architectures
+- **MVC (Model–View–Controller)**  
+- **RESTful APIs**  
+- **Client–Server**  
+- **Microservices (in progress)**  
+- **Hybrid Local-Cloud Apps**  
+- **Monolithic Applications**
+
+---
+
 
 <div>
     <h3>🚀 languages and Tools:</h3>
